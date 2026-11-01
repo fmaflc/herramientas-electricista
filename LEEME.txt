@@ -1,0 +1,66 @@
+HERRAMIENTAS Y EQUIPOS DEL ELECTRICISTA · VERSIÓN AMPLIADA
+40 fichas · 5 categorías
+
+Se conserva la estética, el logotipo, las 18 ilustraciones originales y los apartados de las fichas. Las 22 imágenes nuevas son ilustraciones orientativas generadas con IA, con la marca pequeña abajo a la izquierda mostrada por la app. Las ilustraciones no acreditan el aislamiento, el marcado, la certificación ni el estado de un equipo real.
+
+FICHAS AÑADIDAS
+- Cortacables
+- Cuchillo pelacables
+- Crimpadora de punteras
+- Destornillador dinamométrico
+- Llave para armarios eléctricos
+- Cortatubos para plástico
+- Sierra de arco
+- Flexómetro
+- Nivel de burbuja
+- Taladro atornillador
+- Medidor de aislamiento
+- Comprobador de instalaciones
+- Detector de materiales
+- Dispositivo de bloqueo y candado
+- Alfombrilla aislante eléctrica
+- Pantalla facial para riesgo eléctrico
+- Bornes de conexión
+- Caja de derivación
+- Canaleta eléctrica
+- Carril DIN
+- Prensaestopas
+- Funda termorretráctil
+
+REVISIÓN
+Se han precisado los textos de herramientas aisladas, corte diagonal, crimpadora, detectores, polímetro, pinza amperimétrica y terminales. Se conserva el enfoque de reconocimiento y las advertencias de seguridad. Las fuentes de consulta están enlazadas en cada ficha. El buscador admite varias palabras, nombres alternativos y usos. Los filtros muestran el número de resultados. El marcado «Repasado» se guarda en este navegador y dispositivo, si el almacenamiento está disponible.
+
+INSTALACIÓN
+Sin compilación ni dependencias. Mantén index.html, ejercicios.js y la carpeta img juntos.
+Netlify: descomprime y sube la carpeta que contiene index.html mediante un despliegue manual.
+Cloudflare Pages: utiliza la carga directa de recursos con el ZIP o la carpeta, según la opción del panel.
+
+Este catálogo sirve para reconocer herramientas, equipos y materiales. No sustituye la formación, los procedimientos de trabajo ni las instrucciones del fabricante.
+
+
+ACTUALIZACIÓN: EJERCICIOS AUTOCORREGIBLES
+Se conservan las 40 fichas y sus imágenes, apartados, fuentes y logo original.
+Se añaden 40 ejercicios, uno por ficha: reconocimiento visual (19), elección
+de útiles y preguntas sobre funciones, compatibilidad y límites de uso (21).
+Cada ejercicio permite comprobar, leer una explicación, pedir una pista,
+repasar la ficha y repetir. Las actividades se resuelven solo en pantalla.
+No hagas conexiones, mediciones ni pruebas en instalaciones para responder.
+Superarlas no acredita formación ni autoriza trabajos eléctricos.
+
+El acceso está en la portada y en cada ficha. Para reconocimiento visual, el
+nombre se muestra en el resultado y al consultar la ficha de repaso.
+Los marcados «Repasado» y los ejercicios superados se guardan en este navegador
+y dispositivo si el almacenamiento está disponible. Este guardado sustituye
+el marcado temporal de la versión anterior. Borrar los datos del navegador
+elimina el progreso; en navegación privada puede ser temporal o no estar
+disponible. No se envían respuestas. Los intentos en curso duran esta sesión.
+Repetir no elimina un logro. Usa «Reiniciar el progreso de ejercicios» y
+confirma para borrar los logros: las fichas repasadas se conservan.
+
+PUBLICAR LA VERSIÓN COMPLETA
+Descomprime y sube TODO el contenido: index.html, ejercicios.js, carpeta img,
+.nojekyll y LEEME.txt. index.html debe quedar en la raíz publicada.
+Compatible con GitHub Pages, Netlify y Cloudflare Pages, sin compilación.
+No requiere cuentas del alumnado ni base de datos. No incluye modo sin conexión
+instalable; las fuentes externas requieren conexión.
+Revisión: octubre de 2026.
